@@ -83,6 +83,7 @@ To run the xmltodb locally, follow these steps:
    ```
 
 3. **Install Dependencies:**
+   i. **Install Dependencies:**
    ```bash
    For Windows:
    Make sure you have Python and pip installed. Then run:
@@ -91,7 +92,10 @@ To run the xmltodb locally, follow these steps:
 
    pip install -r requirements.txt
    pip install pandas sqlalchemy psycopg2
+   ```
 
+   ii. **Install Dependencies:**
+   ```bash
    For Linux:
   sudo apt-get install python3-pip
   pip3 install -r requirements.txt
