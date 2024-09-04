@@ -98,16 +98,16 @@ To run the xmltodb locally, follow these steps:
    ii. **For Linux:**
    ```bash
    sudo apt-get install python3-pip
-  pip3 install -r requirements.txt
-  pip install pandas sqlalchemy psycopg2
+   pip3 install -r requirements.txt
+   pip install pandas sqlalchemy psycopg2
    ```
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#usage)
 
 ## ➤ Usage
 
-Once the dependencies are installed, you can start python xml_to_db.py:
+Once the dependencies are installed, you can start :
 
 ```bash
-npm run dev
+python xml_to_db.py
 ```
